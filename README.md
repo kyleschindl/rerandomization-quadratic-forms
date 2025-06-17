@@ -11,11 +11,10 @@ This repository contains all code, data processing steps, and documentation nece
 ---
 ## Setup & Installation
 
-1. **Clone the repository**
+1. **Download and unzip the anonymized repository**
 
    ```bash
-   git clone https://github.com/kyleschindl/rerandomization-quadratic-forms.git
-   cd rerandomization-quadratic-forms
+   https://anonymous.4open.science/r/rerandomization-quadratic-forms-3DAC
    ```
 
 2. **Restore R package environment**
