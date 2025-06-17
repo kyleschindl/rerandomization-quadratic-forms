@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv private library
+renv/library/
+
+# outputs
+output/
+
+# user-specific files
+*.log
